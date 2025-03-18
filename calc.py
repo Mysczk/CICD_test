@@ -1,5 +1,6 @@
 class Calculator:
   def add(self, a, b):
+    # tan ted snad
     return a + b
   def subtract(self, a, b):
     return a - b
